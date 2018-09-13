@@ -1,5 +1,8 @@
 _repo: Uran-aukaisijat_51503
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kauppis-Heikki
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5651
     wikipedia: http://fi.wikipedia.org/wiki/Heikki_Kauppinen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51503#Uran-aukaisijat
 gutenberg_issued: '2016-03-20'
 gutenberg_type: Text
 identifiers:
