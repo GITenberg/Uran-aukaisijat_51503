@@ -1,0 +1,26 @@
+_repo: Uran-aukaisijat_51503
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kauppis-Heikki
+    alias: Kauppinen, Heikki
+    birthdate: 1862
+    deathdate: 1920
+    gutenberg_agent_id: '5651'
+    url: http://www.gutenberg.org/2009/agents/5651
+    wikipedia: http://fi.wikipedia.org/wiki/Heikki_Kauppinen
+description: ''
+gutenberg_issued: '2016-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51503'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: Uran aukaisijat
+url: http://www.gutenberg.org/ebooks/51503
